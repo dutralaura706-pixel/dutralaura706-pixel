@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./black-cat-.gif" width="200" alt="Gatinho preto piscando">
+  <img src="./black-cat-.gif" width="100" alt="Gatinho preto piscando">
   <p>🐾 meow... welcome to my profile!</p>
 </div>
 # 𖤐 Hi, I'm Laura!
