@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**dutralaura706-pixel/dutralaura706-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🌙 Oi, eu sou a Laura!
 
-Here are some ideas to get you started:
+### Desenvolvedora em formação 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐈‍⬛ Miau! Seja bem-vindo(a) ao meu cantinho!
+
+Explorando o mundo da programação,
+uma linha de código por vez.
+
+✨ JavaScript | Python | SQL
+
+♡ Code • Learn • Create • Repeat ♡
+
+</div>
