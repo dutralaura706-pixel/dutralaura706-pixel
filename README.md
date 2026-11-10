@@ -1,35 +1,27 @@
 <div align="center">
 
-# 🌙 Olá, eu sou a Laura!
+# 𖤐 Hi, I'm Laura!
 
-### Ciência da Computação | Dados • IA • Desenvolvimento
+Computer Science Student
 
-<p>
-  Explorando o universo da tecnologia e transformando
-  ideias em soluções através do código.
-</p>
+*Data • Artificial Intelligence • Software Development*
 
-<img src="assets/black-cat.gif" width="160" alt="Gatinho preto de olhos amarelos">
+<img src="assets/black-cat.gif" width="160" alt="Black cat">
 
-*Miau! 🐈‍⬛ Seja bem-vindo(a) ao meu GitHub!*
+Turning curiosity into code.
 
 </div>
 
 ---
 
-## ✨ Sobre mim
+### ✦ About me
 
-🎓 Estudante de Ciência da Computação.
+- 🎓 Computer Science student
+- 📊 Exploring Data Analytics
+- 🤖 Interested in AI & Machine Learning
+- 💻 Learning and building new things
 
-📊 Interesse em Análise de Dados e Business Intelligence.
-
-🤖 Explorando Inteligência Artificial e Machine Learning.
-
-💻 Desenvolvendo minhas habilidades em programação.
-
-🌱 Sempre aprendendo, criando e evoluindo.
-
-## 🛠️ Tecnologias e ferramentas
+### ✦ Tech stack
 
 <div align="center">
 
@@ -42,24 +34,14 @@
 
 </div>
 
-## 🚀 Projetos
-
-Aqui compartilho meus projetos, estudos e experiências
-na construção de soluções tecnológicas.
-
-## 📚 Atualmente estudando
-
-- Análise de Dados
-- SQL e Python
-- Machine Learning
-- Desenvolvimento de Software
-
 ---
 
 <div align="center">
 
-### Obrigada pela visita! 🐈‍⬛
+code • coffee • curiosity • repeat
 
-CODE • LEARN • CREATE • REPEAT
+♡ Thanks for visiting! ♡
 
 </div>
+
+
