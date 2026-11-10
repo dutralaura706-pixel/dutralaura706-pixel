@@ -1,6 +1,5 @@
 <div align="center">
-<div align="center">
-  <img src="./black-cat.gif" width="190" alt="Gatinho preto caminhando">
+  <img src="./Black%20Cat.gif" width="190" alt="Gatinho preto piscando os olhos">
   <p>🐾 meow... welcome to my profile!</p>
 </div>
 # 𖤐 Hi, I'm Laura!
